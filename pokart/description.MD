@@ -1,4 +1,18 @@
-# POKART data structure
+# POKART data structure and terminal logic
+
+## Terminal logic
+
+- prototype
+  at https://www.sketch.com/s/7cb888f5-cf20-47fe-a309-741e35fe67fc/prototype/a/37A1C3DD-95A4-41B9-9774-A4567542C1DD
+  ![prototype.png](prototype.png)
+
+## PDF Documents
+
+- SAMBA server at 192.168.0.233
+  ![location.png](location.png)
+- settings (specific PFD files for products) on xmost web page
+
+![product.png](product.png)
 
 ## Users
 
@@ -29,7 +43,7 @@ There will be these types created:
 
 ### Where is it displayed on terminal?
 
-![img.png](types.png)!
+![img.png](types.png)
 
 ## Orders
 
