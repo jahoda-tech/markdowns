@@ -137,7 +137,7 @@ There will be these types created:
 | system.pokart_order_information.id   | system.pokart_order_information_operations.order_information_id |              |
 | AXIOM.FDB.OBL_TPV_OPR.OPR_MNOZARCHU  | system.pokart_order_information_operations.sheet_count          | Vstup        |
 | AXIOM.FDB.OBL_TPV_OPR.OPR_POCETBAREV | system.pokart_order_information_operations.colors_count         | Barvy        |
-| AXIOM.FDB.OBL_TPV_OPR.OPR_MNOZARCHU  | system.pokart_order_information_operations.workplace_name       | Stroj        |
+| AXIOM.FDB.OBL_TPV_OPR.STR_ID         | system.pokart_order_information_operations.workplace_name       | Stroj        |
 | AXIOM.FDB.OBL_TPV_OPR.OPR_POZN       | system.pokart_order_information_operations.note                 | Poznámka     |
 
 ### Where is it displayed on terminal?
