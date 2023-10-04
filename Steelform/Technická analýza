@@ -1,2 +1,15 @@
 Dne 6.9.2023
 Byla provedena analýza.
+Celkem bude připojeno 13 strojů (13 malých jednotek, 1 velká jednotka)
+Analýza spočívala v prohlédnutí strojů zda se jednotka vleze do stroje, popřípadě navrhnutí alternativních možností.
+Při analýze bylo zjištěno, že bude potřeba:
+ - 12 kusů 25A proudových transformátorů
+ - 24 kusů 50A proudových transformátorů
+ - 12 kusů 100A proudových transformátorů
+ Dále 4 kusy relé pro připojení majáku na určité stroje.
+
+ Budou zde osazeny i terminály, které budou umístěny na stolech pomocí vesa držáků.
+ Terminálů bude 8 kusů (7 kusů stolních vesa ramen, 1 kus nástěného vesa držáku)
+
+ Z důvodu jednoho staršího stroje, kde se nenachází napětí 24VDC bude potřeba dodat zdroj 24VDC (+ jištění).
+ Dále bude jedna jednotka umístěna v externí rozvodné krabici - důvod: v rozvodné skříni stroje nebylo místo pro usazení jednotky.
