@@ -20,3 +20,9 @@ adhere to [Semantic Versioning](http://semver.org/spec/v2.0.0.html) rules.
 
 - ELEKTROVOD+SIGNUM initial information
 
+## [2023.4.1.31] - 2023-10-31
+
+### Added
+
+- Sapril analysis
+
