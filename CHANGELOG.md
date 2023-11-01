@@ -17,18 +17,17 @@ adhere to [Semantic Versioning](http://semver.org/spec/v2.0.0.html) rules.
 ## [2023.4.1.23] - 2023-10-23
 
 ### Added
-
 - ELEKTROVOD+SIGNUM initial information
 
 ## [2023.4.1.31] - 2023-10-31
 
 ### Added
-
 - Sapril analysis
 
 ## [2023.4.2.1] - 2023-11-1
 
 ### update
-
-- Sapril analysis - foto, technical information
+- Sapril analysis - photos, technical information
+### added
+- Steelform analysis
 
