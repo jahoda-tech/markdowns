@@ -26,3 +26,9 @@ adhere to [Semantic Versioning](http://semver.org/spec/v2.0.0.html) rules.
 
 - Sapril analysis
 
+## [2023.4.2.1] - 2023-11-1
+
+### update
+
+- Sapril analysis - foto, technical information
+

@@ -28,7 +28,10 @@
 ## Další informace k instalaci
 
 Počet externích krabic **5 ks** (z důvodu malého místa v rozvodné skříni budou jednotky osazeny do externích krabic)
-Pro vybrané stroje, dle seznamu níže je potřeba doprogramovat digitální výstup kusu (kontakt na příslušného elektrikáře je uvedený výše)
+Pro vybrané stroje, dle seznamu níže je potřeba doprogramovat digitální výstup.
+
+U stroje bizzerro je připojeno zařízení "telnet", toto zařízení sbírá data, která jsou odesílány po síti.
+Je třeba zjistit, které stoje jsou připojeny k síti a je možnost připojení se na příslušný protokol.
 
 ### Seznam strojů
 ![Seznam stroju](seznam_stroju.png)
