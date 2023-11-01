@@ -1,6 +1,6 @@
 # SAPRIL
 
-# Obecné informace, nesetříděné
+# Obecné informace
 1. Elektrikář, mechanik pan Vatrt Daniel tel. 732285485
 2. U všech strojů budu zapojeny proudové transformátory pro měření odebíraného proudu
 3. U strojů kde je možný digitální vstup budou osazeny příslušné digitální vstupy

@@ -1,6 +1,6 @@
 # STEELFORM
 
-# Obecné informace, nesetříděné
+# Obecné informace
 1. IT správa serveru Pavel Štěpánek, tel. 774 108 100, email pavel.stepanek@steelform.cz
 2. U strojů budou převážně zapojeny proudové transformátory
 3. Digitální signály, které bude možnost připojit budou přijeny (např. maják)
