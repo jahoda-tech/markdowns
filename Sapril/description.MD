@@ -8,7 +8,6 @@
 
 ## Seznam strojů
 
-### Pálící stroje
 1. Slotter
 2. INline
 3. Automat
