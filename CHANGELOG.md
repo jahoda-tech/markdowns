@@ -14,34 +14,20 @@ adhere to [Semantic Versioning](http://semver.org/spec/v2.0.0.html) rules.
 * ```Fixed``` for any bug fixes.
 * ```Security``` in case of vulnerabilities.
 
-## [2023.4.2.13] - 2023-11-13
-
-### Updated
-
-- steelform.md file: information about software
-
-## [2023.4.2.1] - 2023-11-1
-
-### Updated
-
-- Sapril analysis - photos, technical information
+## [2023.4.1.23] - 2023-10-23
 
 ### Added
-
-- Steelform analysis
+- ELEKTROVOD+SIGNUM initial information
 
 ## [2023.4.1.31] - 2023-10-31
 
 ### Added
-
 - Sapril analysis
 
-## [2023.4.1.23] - 2023-10-23
+## [2023.4.2.1] - 2023-11-1
 
-### Added
-
-- ELEKTROVOD+SIGNUM initial information
-
-
-
+### update
+- Sapril analysis - photos, technical information
+### added
+- Steelform analysis
 
