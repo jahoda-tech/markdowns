@@ -1,4 +1,4 @@
-# Obecné informace
+# Obecné informace, nesetříděné
 1. Elektrikář, mechanik pan Furmánek pro Elektrovod
 2. U strojů, kde je možný digitální signál (řez, šlapák, sek), tento zapojit
 3. Velikost terminálu minimálně 12 palců
